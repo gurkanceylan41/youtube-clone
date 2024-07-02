@@ -7,7 +7,7 @@ This project is a React application that mimics the basic features of YouTube. I
 
 The main libraries and tools used in this project are:
 
-- tailwind(stillendirme,kurulumu sitesinde)
+- tailwind
 - axios
 - react-player
 - react-icons
